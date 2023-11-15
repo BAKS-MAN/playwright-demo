@@ -1,0 +1,169 @@
+{
+  "cookies": [
+    {
+      "name": "session_id",
+      "value": "2XzkNp8QPQTUAwApBpTJ02uXm9B",
+      "domain": "www.carrefour.es",
+      "path": "/",
+      "expires": 1699641059.373946,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "visid_incap_258278",
+      "value": "+7vJR/wCSY+mGDWRXdCSfNpvTmUAAAAAQUIPAAAAAAA7O8JirIh01jkWmXjSiMnT",
+      "domain": ".carrefour.es",
+      "path": "/",
+      "expires": 1731109861.647655,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "nlbi_258278_1838428",
+      "value": "CZ7AavUEAD/Vybf5pd9X5AAAAAAyLRrUJtFDgxbgnRzHBbgj",
+      "domain": ".carrefour.es",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "incap_ses_267_258278",
+      "value": "+hmzasEZjSglPfHoW5O0A9pvTmUAAAAAu4gu3wAihTByCYe55sp4mA==",
+      "domain": ".carrefour.es",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "salepoint",
+      "value": "004017||28019|A_DOMICILIO|1",
+      "domain": "www.carrefour.es",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cs_mk_ga",
+      "value": "0.2052080021239966_1699639259122",
+      "domain": ".carrefour.es",
+      "path": "/",
+      "expires": 1699641059,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "visid_incap_769673",
+      "value": "H/E1prhfRg+wKMhFFE/VB9pvTmUAAAAAQUIPAAAAAACPf0j32N0aTswUfmPRKZEj",
+      "domain": ".carrefour.es",
+      "path": "/",
+      "expires": 1731109862.216292,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "incap_ses_267_769673",
+      "value": "NAT8ONGjbA1OQPHoW5O0A9pvTmUAAAAAhpBc9xy8+csQ5A2iODOimQ==",
+      "domain": ".carrefour.es",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonAlertBoxClosed",
+      "value": "2023-11-10T18:01:21.236Z",
+      "domain": ".www.carrefour.es",
+      "path": "/",
+      "expires": 1715191281,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Fri+Nov+10+2023+19%3A01%3A21+GMT%2B0100+(Central+European+Standard+Time)&version=202302.1.0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0097%3A1%2CC0001%3A1%2CC0022%3A0%2CC0007%3A0%2CC0166%3A0%2CC0096%3A0%2CC0021%3A0%2CC0052%3A0%2CC0063%3A0%2CC0174%3A0%2CC0081%3A0%2CC0101%3A0%2CC0051%3A0%2CC0023%3A0%2CC0025%3A0%2CC0032%3A0%2CC0033%3A0%2CC0036%3A0%2CC0038%3A0%2CC0039%3A0%2CC0041%3A0%2CC0056%3A0%2CC0082%3A0%2CC0128%3A0%2CC0135%3A0%2CC0005%3A0%2CC0180%3A0%2CC0084%3A0%2CC0167%3A0%2CC0004%3A0",
+      "domain": ".www.carrefour.es",
+      "path": "/",
+      "expires": 1715191281,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OneTrustGroupsConsent-ES",
+      "value": ",C0097,C0001,",
+      "domain": ".carrefour.es",
+      "path": "/",
+      "expires": 1715364081.285917,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.carrefour.es",
+      "localStorage": [
+        {
+          "name": "ebx-empathy-x-visit",
+          "value": "{\"ttl\":1699641059411,\"value\":\"new\"}"
+        },
+        {
+          "name": "ikaue_session_cspa",
+          "value": "{\"referrer\":\"ns\",\"landing\":\"/\",\"medium\":\"ns\",\"source\":\"ns\",\"campaign\":\"ns\",\"term\":\"ns\",\"content\":\"ns\"}"
+        },
+        {
+          "name": "snapinsPage_0",
+          "value": "https://www.carrefour.es/"
+        },
+        {
+          "name": "ebx-session-id",
+          "value": "{\"ttl\":1699641059411,\"value\":\"2054306d-f2ce-4692-882d-d787a70a18ba\"}"
+        },
+        {
+          "name": "ikaue_session_ic",
+          "value": "{\"referrer\":\"ns\",\"landing\":\"/\",\"medium\":\"ns\",\"source\":\"ns\",\"campaign\":\"ns\",\"term\":\"ns\",\"content\":\"ns\"}"
+        },
+        {
+          "name": "snapinsPc",
+          "value": "1"
+        },
+        {
+          "name": "ebx-build-timestamp",
+          "value": "{\"value\":1695627831564}"
+        },
+        {
+          "name": "ikaue_session_cgam",
+          "value": "{\"referrer\":\"ns\",\"landing\":\"/\",\"medium\":\"ns\",\"source\":\"ns\",\"campaign\":\"ns\",\"term\":\"ns\",\"content\":\"ns\"}"
+        },
+        {
+          "name": "snapinsPageTime_0",
+          "value": "1699639259946"
+        },
+        {
+          "name": "snapinsStart",
+          "value": "1699639259946"
+        },
+        {
+          "name": "ebx-empathy-x-id",
+          "value": "{\"ttl\":1731175259411,\"value\":\"c9f45c8b-42e5-4eba-b21d-35d9ef15e4f5\"}"
+        },
+        {
+          "name": "ikaue_emulatedCampaing",
+          "value": "{\"referrer\":\"\",\"landing\":\"https://www.carrefour.es/\",\"medium\":\"(none)\",\"source\":\"ns\",\"campaign\":\"ns\",\"term\":\"ns\",\"content\":\"ns\",\"id\":\"ns\"}"
+        }
+      ]
+    }
+  ]
+}
